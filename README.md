@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Pau Sàbat and I'm a Frontend Developer trainee, from Barcelona</h2>
+<h2 align="center">Hi 👋! My name is Pau Sàbat and I'm a FullStack Developer trainee, from Barcelona</h2>
 
 ###
 
